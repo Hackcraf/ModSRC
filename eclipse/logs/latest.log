@@ -1,0 +1,27 @@
+[12:37:30] [main/INFO]: Setting user: Player783
+[12:37:31] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:37:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ModExpandCraft
+[12:37:40] [Sound Library Loader/INFO]: Sound engine started
+[12:37:43] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[12:37:43] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[12:37:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ModExpandCraft
+[12:37:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:37:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:37:44] [Sound Library Loader/INFO]: Sound engine started
+[12:37:50] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:37:50] [Server thread/INFO]: Generating keypair
+[12:37:50] [Server thread/INFO]: Preparing start region for level 0
+[12:37:51] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:37:52] [Server thread/INFO]: Player783[local:E:0e7b4754] logged in with entity id 269 at (-95.96949373677525, 4.0, 428.155589426432)
+[12:37:52] [Server thread/INFO]: Player783 joined the game
+[12:38:18] [Server thread/INFO]: Saving and pausing game...
+[12:38:18] [Server thread/INFO]: Saving chunks for level 'Dev'/Overworld
+[12:38:18] [Server thread/INFO]: Saving chunks for level 'Dev'/Nether
+[12:38:18] [Server thread/INFO]: Saving chunks for level 'Dev'/The End
+[12:38:18] [Client thread/INFO]: Stopping!
+[12:38:18] [Server thread/INFO]: Stopping server
+[12:38:18] [Server thread/INFO]: Saving players
+[12:38:18] [Server thread/INFO]: Saving worlds
+[12:38:18] [Server thread/INFO]: Saving chunks for level 'Dev'/Overworld
+[12:38:18] [Server thread/INFO]: Saving chunks for level 'Dev'/Nether
+[12:38:18] [Server thread/INFO]: Saving chunks for level 'Dev'/The End
